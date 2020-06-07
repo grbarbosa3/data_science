@@ -1,4 +1,4 @@
-# data_science
+# Data Science Projects
 My personal Data Science projects portfolio.
 
 # Guilherme Rogerio Barbosa
