@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner_1.png" >
+  <img src="https://raw.githubusercontent.com/grbarbosa3/data_science/master/banner_1.jpg" >
 </p>
 
 ### Guilherme Rogerio Barbosa
