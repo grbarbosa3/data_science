@@ -5,7 +5,7 @@
 
 ### Guilherme Rogerio Barbosa
 
-<sub>*Power Engineering student (UNIFEI), Data Scientist and Game Designer.*</sub>
+<sub>*Power Engineering student (UNIFEI) and Data Scientist.*</sub>
 
 **Background in:** Mechanical Engineering, Math, Python, C#, Game development.
 
