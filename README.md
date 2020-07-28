@@ -7,7 +7,7 @@
 
 <sub>*Power Engineering student (UNIFEI) and Data Scientist.*</sub>
 
-**Background in:** Mechanical Engineering, Math, Python, C#, Game development.
+**Background in:** Mechanical Engineering, Math, Python, Game development.
 
 **Links:**
 
